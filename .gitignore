@@ -10,3 +10,4 @@ old/*
 run_tests.php
 
 /vendor/
+/.idea
